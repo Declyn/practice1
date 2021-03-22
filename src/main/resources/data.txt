@@ -1,0 +1,4 @@
+# courseName, scores
+St Andrews,75,84,82,76,63
+Deans International,40,61,27,33,22
+TPC Sawgrass,90,95,78,84,86
